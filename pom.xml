@@ -4,13 +4,13 @@
 
     <groupId>com.easemob</groupId>
     <artifactId>maven-release-test</artifactId>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
 
     <scm>
         <connection>https://github.com/MikerDuo/maven_realease_test.git</connection>
         <url>https://github.com/MikerDuo/maven_realease_test</url>
         <developerConnection>scm:git:https://github.com/MikerDuo/maven_realease_test.git</developerConnection>
-        <tag>v1.1</tag>
+        <tag>dev</tag>
     </scm>
 
     <!--构建配置-->
